@@ -10,11 +10,11 @@
 - **Languages:** SQL, Excel formulas that hit different
 - **Tools:** Excel (still bussin), BigQuery, Google Sheets (living rent-free in my tabs)
 - **Bonus:** Jupyter, VS Code (iykyk)
-- 
+
 #### 💪🏿 Currently leveling up:
 - Python (big glow-up incoming 🐍)  
 - Building dashboards that pass the vibe check *and* don’t crash — no, like for real
-- 
+
 #### 🎭 Fun facts:
 - Built a snack-tracking dashboard and called it "research"  
 - `Ctrl + Z` is the real MVP  
