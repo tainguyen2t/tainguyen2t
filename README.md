@@ -1,21 +1,21 @@
 ### Waddup, it's Tired Newin
  
-- 📊 Data-driven dreamer tryna bring order to spreadsheet chaos — and sometimes life.  
-- 💼 Ex-BA/BI/DA — did the rounds, now I’m the CEO of Ctrl+C and clean data.  
-- 🧠 Can spot a bad chart faster than spotting a fyneshi 🤫.  
-- 🏃 Running on SQL and vibes — caffeine’s just emotional support at this point.  
+- Data-driven dreamer tryna bring order to spreadsheet chaos — and sometimes life.  
+- Ex-BA/BI/DA — did the rounds, now I’m the CEO of Ctrl+C and clean data.  
+- Can spot a bad chart faster than spotting a fyneshi 🤫.  
+- Running on SQL and vibes — caffeine’s just emotional support at this point.  
 ---
 
-#### 🛠 Tech stack I vibe with:
+#### Tech stack I vibe with:
 - **Languages:** SQL, Excel formulas that hit different
 - **Tools:** Excel (still bussin), BigQuery, Google Sheets (living rent-free in my tabs)
 - **Bonus:** Jupyter, VS Code (iykyk)
 
-#### 💪🏿 Currently leveling up:
+#### Currently leveling up:
 - Python (big glow-up incoming 🐍)  
 - Building dashboards that pass the vibe check *and* don’t crash — no, like for real
 
-#### 🎭 Fun facts:
+#### Fun facts:
 - Built a snack-tracking dashboard and called it "research"  
 - `Ctrl + Z` is the real MVP  
 - Cleaning data is my villain origin story and therapy arc  
